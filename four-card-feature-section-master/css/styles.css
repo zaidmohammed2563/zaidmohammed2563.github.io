@@ -1,0 +1,69 @@
+body{
+  font-family: "Poppins", sans-serif;
+  background-color:#f7f7f7;
+  height:56.25em;
+}
+.head1{
+  text-align: center;
+margin-left: auto;
+margin-right: auto;
+font-weight: lighter;
+position:relative;
+top:20px;
+}
+.head2{
+  margin-left: auto;
+  margin-right:auto;
+  text-align: center;
+}
+.firstpgraph{
+  width:40%;
+  text-align: center;
+  margin: auto;
+  padding-top:10px;
+  padding-bottom:45px;
+}
+div{
+  display: inline-block;
+  width:340px;
+  height:220px;
+background-color: #ffffff;
+border :none;
+border-radius:2%;
+border-top: solid 3px;
+}
+.fourth{
+  position:relative;
+  right:90px;
+  top:148px;
+  border-top-color:#0779e4;
+}
+.first{
+  position:relative;
+  top:150px;
+  left:205px;
+  border-top-color: #5fdde5;
+}
+.third{
+  position:relative;
+  top:300px;
+  right:113px;
+  border-top-color:#ffd31d;
+}
+.second{
+  position:relative;
+  left:230px;
+  border-top-color:red;
+}
+h2{
+  font-size:18px;
+  padding-left:15px;
+}
+.pg{
+  padding-left: 15px;
+font-size:15px;
+}
+svg{
+  position:absolute;
+  right:20px;
+}
